@@ -1,6 +1,6 @@
 ![Ocelot Logo](/images/ocelot_logo.png)
 
-[![CircleCI](https://circleci.com/gh/ThreeMammals/Ocelot/tree/main.svg?style=svg)](https://circleci.com/gh/ThreeMammals/Ocelot/tree/main)
+[![CircleCI](https://circleci.com/gh/ThreeMammals/Ocelot/tree/main.svg?style=svg)](https://circleci.com/gh/ThreeMammals/Ocelot/tree/main) [![Gurubase](https://img.shields.io/badge/Gurubase-Ask%20Ocelot%20Guru-006BFF)](https://gurubase.io/g/ocelot)
 
 <!-- [![Coverage Status](https://coveralls.io/repos/github/ThreeMammals/Ocelot/badge.svg)](https://coveralls.io/github/ThreeMammals/Ocelot) -->
 
